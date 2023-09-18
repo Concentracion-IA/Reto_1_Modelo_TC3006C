@@ -21,6 +21,9 @@ aproximado de 40 minutos. Utilizamos un conjunto de datos compuesto por 15 muest
 
 Los archivos de este conjunto de datos se encuentran en la carpeta [Archivo](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/tree/main/Archivo).
 
+## Análisis Exploratorip
+El notebook final se puede encontrar como [ExploratoryDataAnalysis.ipynb](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/An%C3%A1lisis_Exploratorio/ExploratoryDataAnalysis.ipynb).
+
 ## Modelo 
 El notebook final se puede encontrar como [Reto_Final.ipynb](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/Reto_Final.ipynb).
 
