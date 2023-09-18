@@ -22,10 +22,17 @@ aproximado de 40 minutos. Utilizamos un conjunto de datos compuesto por 15 muest
 Los archivos de este conjunto de datos se encuentran en la carpeta [Archivo](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/tree/main/Archivo).
 
 ## Análisis Exploratorio
-El notebook final se puede encontrar como [ExploratoryDataAnalysis.ipynb](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/An%C3%A1lisis_Exploratorio/ExploratoryDataAnalysis.ipynb).
+El notebook del análisis exploratorio se puede encontrar como [ExploratoryDataAnalysis.ipynb](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/An%C3%A1lisis_Exploratorio/ExploratoryDataAnalysis.ipynb).
 
 ## Modelo 
 El notebook final se puede encontrar como [Reto_Final.ipynb](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/Reto_Final.ipynb).
 
 ## Modelo_final.pkl
 Los archivos fueron demasiado grandes en almacenamiento así que por favor encuentre el modelo final en el siguiente [link](https://drive.google.com/drive/folders/1X37Kk5qsEI4HSwFcqOXaZOqalvvmbmHY?usp=sharing) 
+
+----------
+## Reporte del Proyecto
+Aquí podrás acceder al [Reporte del Proyecto](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/Reporte/Reporte_Equipo2.pdf) 
+
+## Presentación del Proyecto
+Aquí podrás acceder a la [Presentación del Proyecto](https://github.com/Concentracion-IA/Reto_1_Modelo_TC3006C/blob/main/Presentaci%C3%B3n/Reto_IA_Equipo2.pdf) 
